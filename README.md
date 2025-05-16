@@ -51,18 +51,9 @@
 
 ### 📌 Featured Projects
 
-- **Personal Portfolio**  
-  _A modern portfolio built using React, Tailwind CSS, and Framer Motion._  
-  🔗 [View Portfolio](https://sthaswarnim17.github.io)
-
-- **AI Travel Recommender** *(In progress)*  
-  _A smart app suggesting travel destinations based on user preferences._  
-  🔗 [GitHub Repo](https://github.com/sthaswarnim17)
-
-- **Local Goods eCommerce**  
-  _Promoting locally made crafts and products through a sleek online platform._  
-  🔗 [Coming Soon](#)
-
+-  **Curiouotes**<br>Curiouotes is a clean, aesthetic and responsive quote generator that fetches real quotes from the [DummyJSON API](https://dummyjson.com/).<br>
+   🔗 [Live](https://sthaswarnim17.github.io/CurioQuotes/)
+   
 ---
 
 ### 🤝 Let's Connect!
@@ -70,13 +61,13 @@
 I’m always open to opportunities and collaborations. Let’s build something great together!
 
 <p align="center">
-  <a href="contact@swarnimstha.com.np">
+  <a href="swarnimstha17@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/sthaswarnim17/">
+  <a href="https://www.linkedin.com/in/sthaswarnim17/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.swarnimstha.com.np/">
+  <a href="https://www.swarnimstha.com.np/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white"/>
   </a>
 </p>
