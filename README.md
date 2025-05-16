@@ -4,10 +4,10 @@
   🚀 Aspiring Computer Engineer | 💻 Tech Enthusiast | 🎨 Creative Designer
 </p>
 <p align="center">
-  <a href="mailto:contact@swarnimstha.com.np">Email</a> • 
-  <a href="https://www.linkedin.com/in/sthaswarnim17/">LinkedIn</a> • 
-  <a href="https://www.swarnimstha.com.np/">Portfolio</a> • 
-  <a href="https://github.com/sthaswarnim17">GitHub</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=swarnimstha17@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> • 
+  <a href="https://www.linkedin.com/in/sthaswarnim17/" target="_blank" rel="noopener noreferrer">LinkedIn</a> • 
+  <a href="https://www.swarnimstha.com.np/" target="_blank" rel="noopener noreferrer">Portfolio</a> • 
+  <a href="https://github.com/sthaswarnim17" target="_blank" rel="noopener noreferrer">GitHub</a>
 </p>
 
 ---
